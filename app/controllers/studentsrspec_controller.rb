@@ -1,0 +1,2 @@
+class StudentsrspecController < ApplicationController
+end
